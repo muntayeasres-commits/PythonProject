@@ -4,8 +4,11 @@ This repository contains my Python practice projects as I learn Python programmi
 
 ## Projects
 
-- Password Generator
-- Shortest Path Algorithm
+### Core Applications
+- **Bank Loan System** (`bank_loan_system.py`)
+- **Calculator** (`calculator.py`)
+
+---
 
 ## Skills
 
